@@ -1,8 +1,8 @@
-#Politique de Confidentialité
-##Introduction
+# Politique de Confidentialité
+## Introduction
 
 Bienvenue sur Atom Stack Evolution. Je m'engage à protéger et à respecter votre vie privée. Cette politique de confidentialité explique comment je collecte, utilise et partage vos informations personnelles lorsque vous utilisez mon application mobile.
-##Informations que Nous Collectons
+## Informations que Nous Collectons
 1. Informations Personnelles
 
 Lorsque vous utilisez mon Application, je peux collecter les informations personnelles suivantes (pour l'instant je ne collecte rien xD) :
@@ -27,7 +27,7 @@ Pour améliorer votre expérience de jeu, je collecte des données relatives à 
     Statistiques de jeu
     Progression et accomplissements
 
-##Utilisation des Informations
+## Utilisation des Informations
 
 J'utilise les informations collectées pour les finalités suivantes :
 
@@ -36,7 +36,7 @@ J'utilise les informations collectées pour les finalités suivantes :
     Répondre à vos commentaires et questions
     Vous envoyer des mises à jour et des notifications liées à l'Application
 
-##Partage des Informations
+## Partage des Informations
 
 Je ne vend, n'échange, ni ne loue vos informations personnelles à des tiers. Cependant, je peux partager vos informations avec des prestataires de services tiers qui m'aident à exploiter l'Application, à condition qu'ils acceptent de garder ces informations confidentielles.
 Sécurité des Données
@@ -52,7 +52,7 @@ Vous avez le droit de :
     Limiter ou s'opposer au traitement de vos informations personnelles
 
 Pour exercer ces droits, veuillez me contacter GitHub
-##Modifications de cette Politique de Confidentialité
+## Modifications de cette Politique de Confidentialité
 
 Je peux mettre à jour ma politique de confidentialité de temps à autre. Je vous informerai de toute modification en publiant la nouvelle politique de confidentialité sur cette page. Je vous conseille de consulter cette page périodiquement pour rester informé des éventuelles modifications.
 Contact
