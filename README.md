@@ -1,4 +1,4 @@
-# Politique de Confidentialité
+# Politique de Confidentialité 
 ## Introduction
 
 Bienvenue sur Atom Stack Evolution. Je m'engage à protéger et à respecter votre vie privée. Cette politique de confidentialité explique comment je collecte, utilise et partage vos informations personnelles lorsque vous utilisez mon application mobile.
